@@ -1,0 +1,11 @@
+name = "rolldoradologin-com-pt"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=rolldoradologin.com.pt"
+HMAC_KEY = "dcd492711e7e22501b761e8da4af495526465226e3d992e3eb9842081699698a"
+COOKIE_NAME = "gad"
+PLAY_PATH = "visit-site"
+BUTTON_ID = "p4b5b4f5023218d8683a7ba06725052a7"
+GATE_SALT = "d15cf3668ff420e2"
